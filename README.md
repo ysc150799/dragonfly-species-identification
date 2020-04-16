@@ -7,3 +7,6 @@ Identify Dragonfly Species using data mined from Facebook dragonfly SouthAsia Gr
 ## Task 2
 * Create Dataset by Downloading, Cleaning and Labelling the images.
 * Build a Keras Model for Speceis Identification.
+## Task 3
+* Build a checklist app for dragonfly
+* Use Firebase to maintain database of user
