@@ -7,9 +7,25 @@
 * Then we proceed to perform spatio-temporal analysis.
 ### Analysis
 * Distribution of observation across the country at district-level.
-<img src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/allspeciesdist.png" width=500 height=400/>
+
+<img src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/allspeciesdist.png" width=600 height=400/>
+
 * Frequency of various species observed.
-<img src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/speciescount.png" width=500 height=400/>
+
+<img src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/speciescount.png" width=600 height=400/>
+
+* District vs no. of observations
+
+<img src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/districtvscount.png" width=600 height=400/>
+
+* Hotspots for Trithemis Aurora.
+
+<img src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/hotspotscrocothemis.png" width=600 height=400/>
+
+* Focusing on Palakkad district.
+
+<img src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/palakkadspecies.png" width=600 height=400/>
+
 
 ## Task 2
 * Create Dataset by Downloading, Cleaning and Labelling the images.
