@@ -10,6 +10,7 @@
 <img src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/allspeciesdist.png" width=500 height=400/>
 * Frequency of various species observed.
 <img src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/speciescount.png" width=500 height=400/>
+
 ## Task 2
 * Create Dataset by Downloading, Cleaning and Labelling the images.
 * Build a Keras Model for Speceis Identification.
