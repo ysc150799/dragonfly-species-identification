@@ -79,5 +79,9 @@ Now you are ready to run the script run it as many times as you want to iterate 
 
 <img width="400" height="800" src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/ForgotPassword_Page.jpg">
 
+#### Home Page
+
+<img width="400" height="800" src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/Home_Page.jpg">
+
 
 
