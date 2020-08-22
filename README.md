@@ -70,6 +70,8 @@ Now you are ready to run the script run it as many times as you want to iterate 
 * Create Dataset by Downloading, Cleaning and Labelling the images.
 * Build a Keras Model for Speceis Identification.
 ## Task 3
-* Build a checklist app for dragonfly
-* Use Firebase to maintain database of
+
+#### Login Page
+
+<img src="dragonfly-species-identification/img/Login_Page.jpg width=600 height=400/>
 
